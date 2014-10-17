@@ -101,7 +101,7 @@ If you need to expose a Swift type for use within Objective-C you can provide a 
 
 * Indent using 4 spaces rather than tabs. This should be the default setting in Xcode.
 * Method braces and other braces (`if`/`else`/`switch`/`while` etc.) always open on the same line as the statement but close on a new line. 
-* If a
+* If using a multi segment logic block (`if`/`if else`/`else`) add a black link before each `if else` or `else` segment.
 
 **Preferred:**
 ```swift
@@ -159,13 +159,13 @@ Avoid block comments inline with code, as the code should be as self-documenting
 Class definitions should be preceeded with a 100 column "header":
 
 ```
-///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////
 ```
 Method groups should be divieded by a mark block: 
 
 ```
-    ///////////////////////////////////////////////////////////////////////////////////////////////
-    // MARK: -
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    // MARK: -    
     // MARK: Block name
 ```
 
@@ -185,7 +185,7 @@ Internal class structure should be as follows:
 Here's an example of a well-styled class definition:
 
 ```swift
-///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////
 class Circle: Shape {
     
     var x: Int, y: Int
@@ -212,8 +212,8 @@ class Circle: Shape {
     }
     
     
-    ///////////////////////////////////////////////////////////////////////////////////////////////
-    // MARK: -
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    // MARK: -    
     // MARK: Shape
     
     override func computeArea() -> Double {
@@ -221,8 +221,8 @@ class Circle: Shape {
     }
     
     
-    ///////////////////////////////////////////////////////////////////////////////////////////////
-    // MARK: -
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    // MARK: -    
     // MARK: Private
     
     private func centerString() -> String {
@@ -230,7 +230,7 @@ class Circle: Shape {
     }
     
     
-    ///////////////////////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////////////////////////
     // MARK: -
     // MARK: Internal
     
@@ -252,9 +252,7 @@ The example above demonstrates the following style guidelines:
 
 ### Use of Self
 
-For conciseness, avoid using `self` since Swift does not require it to access an object's properties or invoke its methods.
-
-Use `self` when required to differentiate between property names and arguments in initializers, and when referencing properties in closures to make capture semantics explicit:
+To be clear and avoid confusion between global functions, paramaters, etc.. always use self to access an object's properties or invoke it's methods.
 
 ```swift
 class BoardLocation {
