@@ -2,6 +2,7 @@
 * [Vacation](#vacation)
 * [Hours](#hours)
 * [Source control](#sourcecontrol)
+* [Branding](#branding)
 
 ## <a name="vacation">Vacation</a>
 For legal reasons, the official vacation is listed as 4 weeks a year. That restriction is really only there for legal protection. We believe everyone is a responsible adult and understands what is reasonable. If you can't then you shouldn't be here ;).  We don't have set holidays off. Everyone has different beliefs, different interests, so it is really up to you to decide when you want to be off.
@@ -57,6 +58,12 @@ Use the following tags:
 * [DEL] - when removing an item, file, etc
 
 Although you can see files changed by just looking at the change log, that is only a file based record. It requires a lot inference to figure out things that were changed, removed, added, etc. By using these simple tags, the change notes provides a very quick snapshot of what was modified for that commit.
+
+
+## <a name="branding">Branding</a>
+If you ever need to brand a document, presentation, site, etc with the Dreamsocket brand, please following the [branding guidelines](branding/ds.brandmark.guidelines.pdf). These guidelines illustrate how to use the brandmark and provide different colorways depending on whether you are using the mark in a light or dark situation.
+
+There are vector based brandmark files for working with a vertical or horizontal mark in either a light or dark situation. Please look thru the [available files](branding/brandmark) in relation the [guidelines](branding/ds.brandmark.guidelines.pdf) to pick which is best for your situation.
 
 
 
