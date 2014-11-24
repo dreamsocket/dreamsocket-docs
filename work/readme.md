@@ -39,6 +39,7 @@ Use the following tags:
 
 * [ADMIN] - when initially adding a repo
 * [NEW] - adding a new feature, file, etc
+* [FIX] - corrected something that was broken
 * [CHG] - a change to an existing item has been made
 * [DEL] - when removing an item, file, etc
 
