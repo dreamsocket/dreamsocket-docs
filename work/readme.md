@@ -23,9 +23,22 @@ We use [LetsFreckle](http://dreamsocket.letsfreckle.com) for all recording all h
 
 Make sure to log time against the correct client/project. If you are unsure, ask. 
 
+**Logging time**
+
 When logging hours always use the built in Timer to stop and start your time. On the website, this can be found in the left hand nav. If you are on a Mac, we encourage you to [download it](https://itunes.apple.com/us/app/freckle/id879917538?mt=12&ign-mpt=uo%3D4) from the Mac App Store.
 
 Always use the timer and accurately record your time. We work on time and materials with most of our projects. If you are recording hours while you aren't working that will add up over time. Say you recorded an extra 30 minutes a day, that is 2.5 hours a week or 10 hours a month. We don't want to overbill our clients. Ethics and honesty are at the core of what we do, so please make sure to accurately reflect that in what you record. There aren't internal incentives or penalizations based on how much you charge, but rather on whether you get your work done.  
+
+**Tagging time**
+
+Freckle always you to tag your hours with a hash tag. 
+
+The 2 general tags we typically use are: 
+
+* \#admin - for meetings, emails, etc 
+* \#development - all coding. 
+
+When working on a project try to do additional tagging when you can to help identify what you worked on. The main benefit with this is being able to identify it for future reference. This helps a TON when we go an do estimates for a project. If you know that a specific component or section took XXX hours and you are going to have to do something similar in the future, you have a good idea of what it takes with that granularity. It also helps if we or the client wants to identify how long a specific piece took. NOTE, these are additional tags to #development. When making these additional tags, the most important thing is that they are descriptive of the task and are consistent. If more than one person is working on a specific task, communicate between the group so everyone is tagging it the same.
 
 
 ## <a name="sourcecontrol">Source control</a>
