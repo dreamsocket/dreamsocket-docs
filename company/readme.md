@@ -3,6 +3,7 @@
 * [Hours](#hours)
 * [Source control](#sourcecontrol)
 * [Branding](#branding)
+* [Philanthropy](#philanthropy)
 
 ## <a name="vacation">Vacation</a>
 For legal reasons, the official vacation is listed as 4 weeks a year. That restriction is really only there for legal protection. We believe everyone is a responsible adult and understands what is reasonable. If you can't then you shouldn't be here ;).  We don't have set holidays off. Everyone has different beliefs, different interests, so it is really up to you to decide when you want to be off.
@@ -66,4 +67,12 @@ If you ever need to brand a document, presentation, site, etc with the Dreamsock
 There are vector based brandmark files for working with a vertical or horizontal mark in either a light or dark situation. Please look thru the [available files](branding/brandmark) in relation the [guidelines](branding/ds.brandmark.guidelines.pdf) to pick which is best for your situation.
 
 
+## <a name="philanthropy">Philanthropy</a>
+Dreamsocket was founded with the aid and support of a great number of generous individuals. We have been fortunate enough to have a community like this that has allowed us to thrive and become who we are. We want to provide the same opportunities to others and genuinely make the world a better place. 
+
+We view our employees, vendors and customers as partners in our dreams. Therefore, we want to offer them the opportunity to participate in our vision of a better future for all humankind.
+
+Through our philanthropy program, for every client, employee, or partner we work with thru the year, we will make a donation to a nonprofit charity of our partner's choosing that they feel will make a positive impact in the lives of others. 
+
+The philanthropy form can be found [here](philanthropy/dreamsocket_philanthropy.pdf).
 
