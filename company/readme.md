@@ -26,13 +26,13 @@ We use [Freckle](http://dreamsocket.letsfreckle.com) for all recording all hours
 
 Make sure to log time against the correct client/project. If you are unsure, ask. 
 
-**Logging time**
+#### Logging time
 
 When logging hours always use the built in Timer to stop and start your time. On the website, this can be found in the left hand nav. If you are on a Mac, we encourage you to [download it](https://itunes.apple.com/us/app/freckle/id879917538?mt=12&ign-mpt=uo%3D4) from the Mac App Store.
 
 Always use the timer and accurately record your time. We work on time and materials with most of our projects. If you are recording hours while you aren't working that will add up over time. Say you recorded an extra 30 minutes a day, that is 2.5 hours a week or 10 hours a month. We don't want to overbill our clients. Ethics and honesty are at the core of what we do, so please make sure to accurately reflect that in what you record. There aren't internal incentives or penalizations based on how much you charge, but rather on whether you get your work done.  
 
-**Tagging time**
+#### Tagging time
 
 Freckle always you to tag your hours with a hash tag. 
 
@@ -68,19 +68,19 @@ At Dreamsocket we use [Asana](http://asana.com) for internal project management.
 
 The rules for each section are:
 
-### New
+#### New
 Staging area for new tasks that we haven't started progress on. Some tasks will be unassigned, awating more details and others will be assigned awaiting the start of development.
 
-### In Progress
+#### In Progress
 Tasks that are currently in progress. Tasks should be moved here from New once progress is started. 
 
-### For Review
+#### For Review
 Tasks for internal review. Once a work is completed on a task, move it here and assign back to the task creator or someone else for QA.
 
-### Delivered
+#### Delivered
 Tasks that have been delivered to the client. Send back to In Progress if more work is needed and assign to the correct person.
 
-### Completed
+#### Completed
 Tasks that the client has signed off on. The task will finially be marked as completed once it goes live.
 
 ## <a name="branding">Branding</a>
