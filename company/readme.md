@@ -2,6 +2,7 @@
 * [Vacation](#vacation)
 * [Hours](#hours)
 * [Source control](#sourcecontrol)
+* [Asana workflow](#asanaworkflow)
 * [Branding](#branding)
 * [Philanthropy](#philanthropy)
 
@@ -21,7 +22,7 @@ Holidays that most of the office are generally out (but aren't required) are:
 
 
 ## <a name="hours">Hours</a>
-We use [LetsFreckle](http://dreamsocket.letsfreckle.com) for all recording all hours. You must be granted an account to access it. In addition, each project has access restrictions. Please ask if you need access granted to the system or a project. 
+We use [Freckle](http://dreamsocket.letsfreckle.com) for all recording all hours. You must be granted an account to access it. In addition, each project has access restrictions. Please ask if you need access granted to the system or a project. 
 
 Make sure to log time against the correct client/project. If you are unsure, ask. 
 
@@ -60,6 +61,27 @@ Use the following tags:
 
 Although you can see files changed by just looking at the change log, that is only a file based record. It requires a lot inference to figure out things that were changed, removed, added, etc. By using these simple tags, the change notes provides a very quick snapshot of what was modified for that commit.
 
+## <a name="asanaworkflow">Asana workflow</a>
+At Dreamsocket we use [Asana](http://asana.com) for internal project management. We use Asana's [sections](https://asana.com/guide/help/projects/sections) feature to implement a project management workflow.
+
+![](../assets/asana_flow.jpg)
+
+The rules for each section are:
+
+### New
+Staging area for new tasks that we haven't started progress on. Some tasks will be unassigned, awating more details and others will be assigned awaiting the start of development.
+
+### In Progress
+Tasks that are currently in progress. Tasks should be moved here from New once progress is started. 
+
+### For Review
+Tasks for internal review. Once a work is completed on a task, move it here and assign back to the task creator or someone else for QA.
+
+### Delivered
+Tasks that have been delivered to the client. Send back to In Progress if more work is needed and assign to the correct person.
+
+### Completed
+Tasks that the client has signed off on. The task will finially be marked as completed once it goes live.
 
 ## <a name="branding">Branding</a>
 If you ever need to brand a document, presentation, site, etc with the Dreamsocket brand, please following the [branding guidelines](branding/ds.brandmark.guidelines.pdf). These guidelines illustrate how to use the brandmark and provide different colorways depending on whether you are using the mark in a light or dark situation.
